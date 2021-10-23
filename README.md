@@ -10,7 +10,7 @@
    </head>
  <body> 
 
-  <p><a href="lorem.html"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Schlegel_wireframe_8-cell.png" 
+  <p><a href="index.html"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Schlegel_wireframe_8-cell.png" 
   width="1000" height="1000" alt="lorem"></a>
   </p>
 
